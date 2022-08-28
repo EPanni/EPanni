@@ -4,7 +4,6 @@
 
 
 - 🔭 I’m currently working as a back-end developer
-- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to contact me: erickpanni@icloud.com
 
