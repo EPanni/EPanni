@@ -13,7 +13,7 @@
   <li>Frameworks: Django, FastAPI and Spring Boot.</li>
   <li>Databases (SQL and NoSQL databases): PostgreSQL and MongoDB.</li>
   <li>Deployment: Git, Github, Azure DevOps, GitLab (CI/CD), Docker and Azure Container Registry.</li>
-  <li>Rest APIs, gRPC, monolithic applications and microservices.</li>
+  <li>Rest APIs, gRPC, GraphQL and microservices.</li>
 </ul>
 ##
 <p><img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
