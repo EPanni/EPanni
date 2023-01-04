@@ -2,9 +2,8 @@
 
 <a href="https://www.linkedin.com/in/erickpanni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
-- 🔭 I’m currently working as a software engineer in Bosch`s Digital Organization (BDO)
-- 👯 I’m looking to collaborate on open source projects
+- 🔭 I am currently work as a software engineer at Encora Inc.
+- 👯 I am looking to collaborate on open source projects
 - 📫 How to contact me: erickpanni@icloud.com
 
 👨‍💻Experiences:
