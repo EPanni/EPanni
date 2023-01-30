@@ -27,7 +27,9 @@
 <img align="center" alt="Gitlab" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"></p>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EPanni&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EPanni&hide=Html&theme=nord_dark)
+<a href="https://github.com/EPanni">
+  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EPanni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=7&theme=onedark"/>
   
   
 </div>
