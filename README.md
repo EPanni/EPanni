@@ -8,10 +8,10 @@
 
 👨‍💻Experiences:
 <ul>
-  <li>Languages: Python, Java, C++ and R.</li>
-  <li>Frameworks: Django, FastAPI and Spring Boot.</li>
-  <li>Databases (SQL and NoSQL databases): PostgreSQL and MongoDB.</li>
-  <li>Deployment: Git, Github, Azure DevOps, GitLab (CI/CD), Docker and Azure Container Registry.</li>
+  <li>Languages: Python,TypeScript, Java and C++.</li>
+  <li>Frameworks: Django, FastAPI, NestJS and Spring Boot.</li>
+  <li>Databases (SQL and NoSQL databases): PostgreSQL, MongoDB and DynamoDB.</li>
+  <li>Deployment: Git, Github, Azure DevOps, GitLab (CI/CD), Docker, ACR, ECR and ECS li>
   <li>Rest APIs, gRPC, GraphQL and microservices.</li>
 </ul>
 ##
