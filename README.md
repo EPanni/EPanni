@@ -15,8 +15,8 @@
   <li>IaaC: Terraform </li>
   <li>Rest APIs, gRPC, GraphQL and microservices.</li>
   <li>Cloud providers: </li>
-   - <li>AWS: EC2, ECS, ECR, Application Load Balancer, DynamoDB, Lambda, API Gateway, Cognito, IAM, S3, Route 53, Certificate Manager e SSM</li>
-   - <li>Azure: VM, VNET, Web-Apps, Application Gateway, NAT e AD </li>
+  <li>    - AWS: EC2, ECS, ECR, Application Load Balancer, DynamoDB, Lambda, API Gateway, Cognito, IAM, S3, Route 53, Certificate Manager e SSM</li>
+  <li>    - Azure: VM, VNET, Web-Apps, Application Gateway, NAT e AD </li>
 </ul>
 ##
 <p><img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
