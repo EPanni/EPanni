@@ -24,7 +24,6 @@
       <li>VM, VNET, Web-Apps, Application Gateway, NAT, AD</li>
     </ul>
 </ul>
-##
 <p><img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="C++" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
@@ -38,10 +37,11 @@
 <div align="center">
 
 <a href="https://github.com/EPanni">
+
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EPanni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=7&theme=onedark"/>
   
-  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=8&theme=onedark"/>
+          
 </div>
 
 ![Snake animation](https://github.com/EPanni/EPanni/blob/output/github-contribution-grid-snake.svg)
