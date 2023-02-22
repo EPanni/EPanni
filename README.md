@@ -40,7 +40,7 @@
 
   <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EPanni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=8&theme=onedark&show_icons=true&count_private=true"/>
           
 </div>
 
