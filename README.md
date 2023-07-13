@@ -8,7 +8,7 @@
 
 👨‍💻Experiences:
 <ul>
-  <li>Languages: Python,TypeScript, Java and C++.</li>
+  <li>Languages: Python,TypeScript and C++.</li>
   <li>Frameworks: Django, FastAPI, NestJS and Spring Boot.</li>
   <li>Databases (SQL and NoSQL databases): PostgreSQL, MongoDB and DynamoDB.</li>
   <li>Deployment: Git, Github, Azure DevOps, GitLab (CI/CD), Docker, ACR, ECR and ECS </li>
