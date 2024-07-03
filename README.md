@@ -8,12 +8,12 @@
 
 👨‍💻Experiences:
 <ul>
-  <li>Languages: Python,TypeScript and C++.</li>
-  <li>Frameworks: Django, FastAPI, NextJS and Spring Boot.</li>
+  <li>Languages: Python,TypeScript and Java.</li>
+  <li>Frameworks: FastAPI, NextJS and Spring Boot.</li>
   <li>Databases (SQL and NoSQL databases): PostgreSQL, MongoDB and DynamoDB.</li>
   <li>Deployment: Git, Github, Azure DevOps, GitLab (CI/CD), Docker, ACR, ECR and ECS </li>
   <li>IaaC: Terraform </li>
-  <li>Rest APIs, gRPC, GraphQL and microservices.</li>
+  <li>Rest APIs, gRPC, GraphQL.</li>
   <li>Cloud providers: </li>
   AWS
    <ul>
