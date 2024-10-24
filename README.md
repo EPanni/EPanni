@@ -2,13 +2,12 @@
 
 <a href="https://www.linkedin.com/in/erickpanni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-- 👯 I am looking to collaborate on open source projects
 - 📫 How to contact me: erickpanni@icloud.com
 
 👨‍💻Experiences:
 <ul>
-  <li>Languages: Python,TypeScript and Java.</li>
-  <li>Frameworks: FastAPI, NextJS and Spring Boot.</li>
+  <li>Languages: TypeScript, Python and Java.</li>
+  <li>Frameworks: FastAPI, Espress / NextJS, and Spring Boot.</li>
   <li>Databases (SQL and NoSQL databases): PostgreSQL, MongoDB and DynamoDB.</li>
   <li>Deployment: Git, Github, Azure DevOps, GitLab (CI/CD), Docker, ACR, ECR and ECS </li>
   <li>IaaC: Terraform </li>
@@ -23,11 +22,11 @@
       <li>VM, VNET, Web-Apps, Application Gateway, NAT, AD</li>
     </ul>
 </ul>
-<p><img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+
+<p><img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img align="center" alt="C++" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="R" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-<img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img align="center" alt="Postgree" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 <img align="center" alt="Mongo" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
