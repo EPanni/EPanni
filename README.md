@@ -1,45 +1,54 @@
-### Hi there 👋
+# Hi there 👋
 
-<a href="https://www.linkedin.com/in/erickpanni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+I'm Erick, a Software Engineer who enjoys learning new things, solving problems, and building products that create value for customers.
 
-- 📫 How to contact me: erickpanni@icloud.com
+What I enjoy most about software engineering is working at the intersection of technology, business, and people. I like collaborating with product managers, designers, and engineers to understand problems, challenge assumptions, and turn ideas into practical solutions.
 
-👨‍💻Experiences:
-<ul>
-  <li>Languages: TypeScript, Python and Java.</li>
-  <li>Frameworks: FastAPI, Espress / NextJS, and Spring Boot.</li>
-  <li>Databases (SQL and NoSQL databases): PostgreSQL, MongoDB and DynamoDB.</li>
-  <li>Deployment: Git, Github, Azure DevOps, GitLab (CI/CD), Docker, ACR, ECR and ECS </li>
-  <li>IaaC: Terraform </li>
-  <li>Rest APIs, gRPC, GraphQL.</li>
-  <li>Cloud providers: </li>
-  AWS
-   <ul>
-      <li>EC2, ECS, ECR, Application Load Balancer, DynamoDB, Lambda, API Gateway, Cognito, IAM, S3, Route 53, Certificate Manager, SSM</li>
-   </ul>
-  Azure
-    <ul>
-      <li>VM, VNET, Web-Apps, Application Gateway, NAT, AD</li>
-    </ul>
-</ul>
+Over the years, I've worked on a variety of products and technical challenges, which taught me that the most interesting problems are rarely about a specific language, framework, or technology. They're about understanding a domain, making good trade-offs, and helping teams deliver reliable software that people actually use.
 
-<p><img align="center" alt="TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align="center" alt="Python" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="C++" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt="Postgree" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Mongo" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="Github" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-<img align="center" alt="Gitlab" height="45" width="55" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"></p>
+I'm particularly interested in:
+
+- Software Architecture
+- Distributed Systems
+- Observability & Monitoring
+- System Design
+- Developer Experience
+- Product Development
+- Reliability & Operational Excellence
+- Mentoring & Knowledge Sharing
+
+I enjoy understanding how systems behave in production, identifying bottlenecks, improving reliability, and designing solutions that can evolve as products and teams grow.
+
+I also enjoy mentoring engineers, participating in technical discussions, reviewing designs, and helping create environments where people can learn and do their best work.
+
+One of the things I like most about this profession is the opportunity to continuously learn. Whether it's a new technology, a new industry, or a completely different type of problem, I'm always excited to understand how things work and how software can help make them better.
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/erickpanni
+- Email: erickpanni@icloud.com
+
+## 💡 Things I Enjoy Working On
+
+- Solving complex business and technical problems
+- Designing scalable systems
+- Improving observability and operational visibility
+- Building products with a strong customer focus
+- Engineering productivity and developer experience
+- Cross-functional collaboration
+- Mentoring and helping teams grow
+- Learning new technologies and domains
+
+## 📊 GitHub Stats
+
 <div align="center">
 
 <a href="https://github.com/EPanni">
 
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EPanni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=8&theme=onedark&show_icons=true&count_private=true"/>
-          
+<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EPanni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=8&theme=onedark&show_icons=true&count_private=true"/>
+
 </div>
 
 ![Snake animation](https://github.com/EPanni/EPanni/blob/output/github-contribution-grid-snake.svg)
