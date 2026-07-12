@@ -44,10 +44,9 @@ One of the things I like most about this profession is the opportunity to contin
 <div align="center">
 
 <a href="https://github.com/EPanni">
-
-<img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EPanni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=8&theme=onedark&show_icons=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EPanni&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Erick's GitHub Stats" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EPanni&layout=compact&langs_count=8&theme=onedark&show_icons=true&count_private=true" alt="Top Languages" />
+</a>
 
 </div>
 
