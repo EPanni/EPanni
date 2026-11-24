@@ -1,40 +1,33 @@
 # Hi there 👋
 
-I'm Erick, a Software Engineer who enjoys learning new things, solving problems, and building products that create value for customers.
+# About
 
-What I enjoy most about software engineering is working at the intersection of technology, business, and people. I like collaborating with product managers, designers, and engineers to understand problems, challenge assumptions, and turn ideas into practical solutions.
+I'm Erick, a Senior Software Engineer with 8+ years of experience designing, building, and evolving software products across different industries, including healthcare, fintech, and AI.
 
-Over the years, I've worked on a variety of products and technical challenges, which taught me that the most interesting problems are rarely about a specific language, framework, or technology. They're about understanding a domain, making good trade-offs, and helping teams deliver reliable software that people actually use.
+I enjoy working at the intersection of technology, business, and people. I like understanding complex problems, challenging assumptions, and collaborating with product managers, designers, and engineers to turn ideas into practical solutions that deliver real value to customers.
+
+Throughout my career, I've worked across the full software development lifecycle, from early-stage product development and system architecture to scaling existing platforms and improving production systems. My experience spans backend and frontend engineering, distributed systems, cloud infrastructure, and AI-powered applications, with a particular focus on backend architecture and building reliable, maintainable systems.
+
+I believe good engineering is not about choosing the most sophisticated technology or designing for every possible scenario. It's about understanding the problem, making thoughtful trade-offs, and building solutions that can evolve with the product and the business.
 
 I'm particularly interested in:
 
-- Software Architecture
-- Distributed Systems
-- Observability & Monitoring
-- System Design
-- Developer Experience
-- Product Development
-- Reliability & Operational Excellence
-- Mentoring & Knowledge Sharing
+- Software Architecture & System Design
+- Distributed Systems & Asynchronous Processing
+- AI Engineering & Agentic Systems
+- Cloud Architecture & Infrastructure
+- Observability & Production Reliability
+- Developer Experience & Engineering Productivity
+- Product Development & Technical Strategy
+- Technical Leadership, Mentoring & Knowledge Sharing
 
-I enjoy understanding how systems behave in production, identifying bottlenecks, improving reliability, and designing solutions that can evolve as products and teams grow.
+I especially enjoy understanding how systems behave in production, identifying bottlenecks, improving performance and reliability, and designing architectures that support growing products and teams. I'm also interested in how AI can be applied beyond experimentation, building practical solutions that integrate with existing systems and solve real business problems.
 
-I also enjoy mentoring engineers, participating in technical discussions, reviewing designs, and helping create environments where people can learn and do their best work.
+Beyond writing code, I enjoy participating in architectural discussions, reviewing technical decisions, mentoring engineers, and helping teams find the right balance between engineering quality, delivery speed, and business needs.
 
-One of the things I like most about this profession is the opportunity to continuously learn. Whether it's a new technology, a new industry, or a completely different type of problem, I'm always excited to understand how things work and how software can help make them better.
+I'm a continuous learner who enjoys exploring new technologies, understanding different domains, and tackling unfamiliar challenges. Ultimately, what motivates me is building meaningful products, solving difficult problems, and helping people and teams do their best work.
 
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/erickpanni
 - Email: erickpanni@icloud.com
-
-## 💡 Things I Enjoy Working On
-
-- Solving complex business and technical problems
-- Designing scalable systems
-- Improving observability and operational visibility
-- Building products with a strong customer focus
-- Engineering productivity and developer experience
-- Cross-functional collaboration
-- Mentoring and helping teams grow
-- Learning new technologies and domains
